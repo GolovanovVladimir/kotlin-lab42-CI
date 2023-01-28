@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.MainKtTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-01-28T21:41:27" hostname="QLIKVIEW-PC" time="0.068">
+  <properties/>
+  <testcase name="calculateCommissionMasterLimitMonth" classname="ru.netology.MainKtTest" time="0.065"/>
+  <testcase name="calculateCommissionVisaLimitDay" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommissionVKPayLimitMonth" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommissionVisa" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommissionVKPay" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommissionMaster" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommissionVKPayLimitDay" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateCommissionVisaLimitMonth" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateCommissionMasterLimitDay" classname="ru.netology.MainKtTest" time="0.0"/>
+  <system-out><![CDATA[В планируете перечислить с карты MASTER / MAESTRO сумму 601000.0  руб., ранее перечисляли 350000.0 руб.
+Комиссия по операции 0.0 руб.
+
+Операция невозможна : превышен лимит на операцию по карте VISA / МИР!
+Операция невозможна : превышена макс.сумма на операцию по карте VK Pay!
+В планируете перечислить с карты VISA / МИР сумму 30000.0  руб., ранее перечисляли 110000.0 руб.
+Комиссия по операции 225.0 руб.
+
+В планируете перечислить с карты VK Pay сумму 14000.0  руб., ранее перечисляли 17000.0 руб.
+Комиссия по операции 0.0 руб.
+
+Операция невозможна : превышен лимит на операцию по карте MASTER / MAESTRO!
+Операция невозможна : превышена макс.сумма на операцию по карте VK Pay!
+Операция невозможна : превышен лимит на операцию по карте VISA / МИР!
+Операция невозможна : превышен лимит по месяцу по карте MASTER / MAESTRO!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
