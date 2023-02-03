@@ -1,1 +1,1 @@
-C:\Users\Vladimir\Desktop\Repo\HelloWorld\kotlin-lab41-Maximum-Cover\build\classes\kotlin\main\ru\netology\MainKt.class
+C:\Users\Vladimir\Desktop\Repo\HelloWorld\kotlin-lab42-CI\build\classes\kotlin\main\ru\netology\MainKt.class

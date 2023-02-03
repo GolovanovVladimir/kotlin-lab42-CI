@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.MainKtTest2" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-01-28T21:41:27" hostname="QLIKVIEW-PC" time="0.0">
+<testsuite name="ru.netology.MainKtTest2" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-03T19:45:12" hostname="QLIKVIEW-PC" time="0.001">
   <properties/>
   <testcase name="mainInputCardMaster" classname="ru.netology.MainKtTest2" time="0.0"/>
   <testcase name="mainInputCardVKPay" classname="ru.netology.MainKtTest2" time="0.0"/>
