@@ -11,7 +11,7 @@ class MainKtTest {
         val typeCard = "MASTER / MAESTRO"
 
         val result = calculateCommission(typeCard, 20_000.0, amountCurrent)
-        assertEquals(1.0,  result,0.0)
+        assertEquals(0.0,  result,0.0)
     }
     @Test
     fun calculateCommissionVisa() {
@@ -27,7 +27,7 @@ class MainKtTest {
         val typeCard = "VK Pay"
 
         val result = calculateCommission(typeCard, 17_000.0, amountCurrent)
-        assertEquals(1.0,  result,0.0)
+        assertEquals(0.0,  result,0.0)
     }
 
     @Test

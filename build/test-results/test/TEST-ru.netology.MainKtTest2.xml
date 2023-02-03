@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.MainKtTest2" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-03T20:08:05" hostname="QLIKVIEW-PC" time="0.002">
+<testsuite name="ru.netology.MainKtTest2" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-03T20:10:03" hostname="QLIKVIEW-PC" time="0.0">
   <properties/>
-  <testcase name="mainInputCardMaster" classname="ru.netology.MainKtTest2" time="0.001"/>
+  <testcase name="mainInputCardMaster" classname="ru.netology.MainKtTest2" time="0.0"/>
   <testcase name="mainInputCardVKPay" classname="ru.netology.MainKtTest2" time="0.0"/>
-  <testcase name="mainInputCardVisa" classname="ru.netology.MainKtTest2" time="0.001"/>
+  <testcase name="mainInputCardVisa" classname="ru.netology.MainKtTest2" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
